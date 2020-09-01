@@ -1,0 +1,23 @@
+Running the submitted .py files requires the following python libraries/packages:
+1. pandas
+2. numpy
+3. LinearRegression from sklearn.linear_model
+4. mean_squared_error from sklearn.metrics
+5. DecisionTreeRegressor sklearn.tree
+6. LogisticRegression from sklearn.linear_model
+7. RandomForestRegressor from sklearn.ensemble 
+8. train_test_split from sklearn.model_selection
+9. cross_val_score from sklearn.model_selection
+10. KNeighborsRegressor from sklearn.neighbors
+11. GaussianNB from sklearn.naive_bayes
+12. accuracy_score from sklearn.metrics
+13. mean_squared_error from sklearn.metrics
+14. mean_absolute_error from sklearn.metrics
+15. CVScores from yellowbrick.model_selection
+16. KFold from sklearn.model_selection
+17. r2_score from sklearn.metrics
+18. mean_squared_log_error from sklearn.metrics
+19. seaborn
+20. tree from sklearn
+21. metrics from sklearn
+22. sqrt from math
